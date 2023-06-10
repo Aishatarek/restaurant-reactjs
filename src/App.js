@@ -108,7 +108,7 @@ useEffect(()=>{
            </NavItem>
            <UncontrolledDropdown nav inNavbar>
              <DropdownToggle className="navlink" nav >
-               Pages
+               More
              </DropdownToggle>
              <DropdownMenu right>
        
