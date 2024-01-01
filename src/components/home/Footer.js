@@ -29,6 +29,8 @@ export class Footer extends Component {
                         </Col>
                     </Row>
                 </Container>
+             <div className="copyrightfooter"><p> © 2023 All rights reserved</p><a href="https://website-builder-company.netlify.app/" target="_blank"> Powered by Aisha Tarek</a> </div>
+
             </div>
         )
     }
